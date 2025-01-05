@@ -1,34 +1,16 @@
-# AstroNvim Template
+AWFixer Neovim Configuration, based on [AstroNvim](https://astronvim.com)
 
-**NOTE:** This is for AstroNvim v4+
+This Configuration requires:
 
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+- go
+- cargo
+- node
+- npm
+- pnpm
+- rustup
+- git
+- github-cli
 
-## 🛠️ Installation
+This is the coniguration that I use on my personal laptop, I use it when I am developing one of my [Operating Systems](https://github.com/awfixer-systems)
 
-#### Make a backup of your current nvim and shared folder
-
-```shell
-mv ~/.config/nvim ~/.config/nvim.bak
-mv ~/.local/share/nvim ~/.local/share/nvim.bak
-mv ~/.local/state/nvim ~/.local/state/nvim.bak
-mv ~/.cache/nvim ~/.cache/nvim.bak
-```
-
-#### Create a new user repository from this template
-
-Press the "Use this template" button above to create a new repository to store your user configuration.
-
-You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
-
-#### Clone the repository
-
-```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
-```
-
-#### Start Neovim
-
-```shell
-nvim
-```
+If you like this configuration, leave me a star, and please join my [Discord](https://discord.gg/awfixer) with any questions that you may have
