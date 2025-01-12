@@ -1,4 +1,4 @@
-AWFixer Neovim Configuration, based on [AstroNvim](https://astronvim.com)
+AWFixer Neovim Configuration, Written from scratch
 
 This Configuration requires:
 
